@@ -1,7 +1,7 @@
 {
-  "name": "@fork-development-corp/surveyr",
+  "name": "@fork-development-corp/scalr",
   "version": "1.0.0",
-  "description": "Survey Things",
+  "description": "Bluetooth Scale Things for Preventscripts 51-102 Bluetooth scale",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
