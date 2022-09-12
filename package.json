@@ -1,10 +1,11 @@
 {
   "name": "surveyr-static",
   "version": "1.0.0",
-  "description": "Package for Survey Things",
+  "description": "Static site for Survey Things",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fork-Development-Corp/surveyr-static/issues"
   },
-  "homepage": "https://github.com/Fork-Development-Corp/surveyr-static#readme"
+  "homepage": "https://github.com/Fork-Development-Corp/surveyr-static#readme",
+  "dependencies": {
+    "surveyr": "https://github.com/Fork-Development-Corp/surveyr.git#main"
+  }
 }
