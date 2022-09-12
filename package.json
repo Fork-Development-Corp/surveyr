@@ -15,5 +15,21 @@
   "bugs": {
     "url": "https://github.com/Fork-Development-Corp/surveyr/issues"
   },
-  "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme"
+  "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme",
+  "dependencies": {
+    "@types/jest": "^29.0.1",
+    "@types/node": "^18.7.16",
+    "@types/react": "^18.0.19",
+    "@types/react-dom": "^18.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.70.0",
+    "react-native-ble-plx": "^2.0.3",
+    "react-native-quick-base64": "^2.0.5",
+    "typescript": "^4.8.3"
+  },
+  "resolutions": {
+    "@types/react": "^18.0.19",
+    "@types/react-dom": "18.0.6"
+  }
 }
