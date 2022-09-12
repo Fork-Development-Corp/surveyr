@@ -1,19 +1,19 @@
 {
-  "name": "@fork-development-corp/surveyr",
+  "name": "surveyr-static",
   "version": "1.0.0",
-  "description": "Survey Things",
+  "description": "Package for Survey Things",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fork-Development-Corp/surveyr.git"
+    "url": "git+https://github.com/Fork-Development-Corp/surveyr-static.git"
   },
   "author": "J. Campbell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fork-Development-Corp/surveyr/issues"
+    "url": "https://github.com/Fork-Development-Corp/surveyr-static/issues"
   },
-  "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme"
+  "homepage": "https://github.com/Fork-Development-Corp/surveyr-static#readme"
 }
