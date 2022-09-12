@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme",
   "dependencies": {
-    "surveyr": "git+https://github.com/Fork-Development-Corp/surveyr.git#main"
+    "surveyr": "git://github.com/Fork-Development-Corp/surveyr.git#main"
   }
 }
