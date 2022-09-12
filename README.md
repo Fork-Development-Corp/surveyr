@@ -10,7 +10,7 @@ Initial goal:
     https://github.com/Fork-Development-Corp/surveyr
     hopefully that's here.
 
-2)  HTML Static Site with JS elements imported from #1
+2)  Node Site with JS elements imported from #1
 3)  React site - CRA accessing elements from #1
     3a) usage / dashboard report
 4)  React component in library
