@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fork-Development-Corp/surveyr/issues"
   },
-  "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme"
+  "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme",
+  "dependencies": {
+    "react-native": "^0.70.0"
+  }
 }

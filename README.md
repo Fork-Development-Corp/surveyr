@@ -3,6 +3,8 @@ Package for Survey Things
 
 Surveyr Monorepo
 
+This adds bluetooth thing but in vanilla js.  go find the typescript branch
+
 Initial goal:
 
 1)  Vanilla JS library, the surveyr package, with exported function
