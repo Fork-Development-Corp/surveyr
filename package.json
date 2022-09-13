@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Fork-Development-Corp/surveyr#readme",
   "dependencies": {
-    "surveyr": "git://github.com/Fork-Development-Corp/surveyr.git#main"
+    "preventscripts": "git+ssh://git@github.com:Fork-Development-Corp/surveyr.git#preventscripts-library",
+    "surveyr": "git+ssh://git@github.com:Fork-Development-Corp/surveyr.git#main"
   }
 }
