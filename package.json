@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fork-Development-Corp/surveyr.git"
+    "url": "git+ssh://github.com/Fork-Development-Corp/surveyr.git"
   },
   "author": "J. Campbell",
   "license": "ISC",
