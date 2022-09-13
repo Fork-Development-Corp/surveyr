@@ -1,14 +1,17 @@
 {
-  "name": "@fork-development-corp/surveyr",
+  "name": "@fork-development-corp/preventscripts",
+  "collaborators": [
+    "J. Campbell <fork42@mac.com>"
+  ],
   "version": "1.0.0",
-  "description": "Survey Things",
+  "description": "Preventscripts Library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fork-Development-Corp/surveyr.git"
+    "url": "git+https://github.com/Fork-Development-Corp/surveyr.git#preventscripts-library"
   },
   "author": "J. Campbell",
   "license": "ISC",
