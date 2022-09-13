@@ -1,0 +1,33 @@
+[package]
+name = "preventscripts"
+version = "0.1.0"
+edition = "2021"
+authors = ["J. Campbell <fork42@mac.com>"]
+default-run = "recommendation"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wasm-bindgen = "0.2"
+
+[lib]
+name = "preventscripts_library"
+version = "0.1"
+path="src/preventscripts.rs"
+crate-type = ["cdylib"]
+# this is for web/js build.  for non-web-bindings build with 'lib' type as in sample below
+
+[[bin]]
+name = "recommendation"
+path = "src/main.rs"
+
+[cdylib]
+name = "preventscripts_library"
+version = "0.1"
+path="src/preventscripts.rs"
+crate-type = ["cdylib"]
+
+[regularlib]
+name = "preventscripts_library"
+version = "0.1"
+path="src/preventscripts.rs"
+crate-type = ["lib"]
