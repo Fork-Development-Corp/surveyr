@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://github.com/Fork-Development-Corp/surveyr.git"
-  },
+  "repository": "github:Fork-Development-Corp/surveyr.git#main",
   "author": "J. Campbell",
   "license": "ISC",
   "bugs": {
