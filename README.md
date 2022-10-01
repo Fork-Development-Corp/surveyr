@@ -15,3 +15,4 @@ Initial goal:
     3a) usage / dashboard report
 4)  React component in library
 5)  React native mobile app using elements in #1
+6)  Node functions as lambda endpoints to receive responses
